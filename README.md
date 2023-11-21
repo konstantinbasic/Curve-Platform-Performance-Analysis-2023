@@ -4,6 +4,9 @@ Report: Curve Platform Performance Analysis – 2023
 Dashboard Link:
 https://dune.com/konstantin_basic/curve-performance-on-ethereum 
 
+PDF Report:
+https://market.oceanprotocol.com/asset/did:op:a04ebd30c9ce7c42db431147f23048a266dc5c5cfb42358dfe2f51865186dfa8
+
 Introduction:
 Since the onset of 2023, Curve has positioned itself as a frontrunner in the decentralized finance landscape, fostering an impressive community of 73,000 active swappers. This community has played a pivotal role in propelling Curve's cumulative transactional volume to an astounding 61 billion USD. This report delves into the platform's performance metrics and key highlights from the first quarter of 2023.
 
